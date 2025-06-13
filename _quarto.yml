@@ -1,0 +1,19 @@
+website:
+  title: "Bhawna Shekhawat – MBA Portfolio"
+  navbar:
+    left:
+      - file: index.qmd
+        text: Home
+      - file: resume.qmd
+        text: Experience
+      - file: education.qmd
+        text: Education
+      - file: skills.qmd
+        text: Skills
+      - file: contact.qmd
+        text: Contact
+format: html
+
+
+
+
