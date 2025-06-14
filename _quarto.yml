@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Bhawna Shekhawat"
+  navbar:
+    left:
+      - text: About
+        href: index.html
+      - text: Resume
+        href: resume.html
+      - text: Projects
+        href: projects.html
+      - text: Skills
+        href: skills.html
+      - text: Contact
+        href: contact.html
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
+
+
+
+
+
